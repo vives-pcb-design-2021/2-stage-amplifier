@@ -6,6 +6,8 @@ Name: <!-- TODO: place nam here -->
 
 ## Schematic
 
+![Draft](img/draft.png) <!-- TODO: Remove draft image when done -->
+
 <!-- TODO: place image here -->
 
 ## PCB
